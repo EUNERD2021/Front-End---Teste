@@ -1,6 +1,5 @@
 # Front-End---Teste
 
-Teste Front-End
 # O Desafio:
 
 •	O seu objetivo é criar uma SPA com o perfil de prestadores de serviços da área de TI.
